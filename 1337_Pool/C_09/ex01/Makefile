@@ -1,15 +1,3 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    Makefile                                           :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: yaborak <marvin@42.fr>                     +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2023/08/04 01:53:34 by yaborak           #+#    #+#              #
-#    Updated: 2023/08/04 01:53:40 by yaborak          ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
-
 SRCS	= srcs/ft_putchar.c srcs/ft_putstr.c srcs/ft_strlen.c srcs/ft_strcmp.c srcs/ft_swap.c
 OBJS	= ${SRCS:.c=.o}
 INCS	= includes
