@@ -1,4 +1,4 @@
-## This repo contains my answers for the july 2023 Pool in Benguerir, and marks the begining for my programming learning journey.
+## This repo contains my answers for the july 2023 Pool in Benguerir and marks the begining of my programming learning journey.
 
 > [!NOTE]
 > The answers in this repo are mostly not optmized and that's the beauty of it.
