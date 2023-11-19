@@ -1,7 +1,7 @@
 ## This repo contains my answers for the july 2023 Pool in Benguerir and marks the begining of my programming learning journey.
 
 > [!NOTE]
-> The answers in this repo are mostly not optmized and that's the beauty of it.
+> The answers in this repo are mostly not optmized.
 
 ### C Programming language
 - [C_00](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_00)
