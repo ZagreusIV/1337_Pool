@@ -3,7 +3,7 @@
 > [!NOTE]
 > This repo does not contain all the days and exercices, nor does it contain the answers to the exams and rushs.
 
-> [!Keep in mind]
+> [!NOTE]
 > The answers in this repo are mostly not optmized.
 
 ### C Programming language
