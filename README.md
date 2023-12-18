@@ -10,7 +10,7 @@
 
 ### C Programming language
 - [C_00](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_00)
-- [Subject](Subject-C_00.pdf)
+- [Subject](C_00/Subject-C_00.pdf)
 
 - [C_01](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_01)
 - [Subject](Subject-C_01.pdf)
