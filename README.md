@@ -1,9 +1,9 @@
-## This repo contains my answers for the july 2023 Pool in Benguerir.
+## This repo contains my answers for the july 2023 Pool.
 
 > [!NOTE]
 > This repo does not contain all the days and exercices, nor does it contain the answers to the exams and rushs.
 
-> [!NOTE]
+> [!Keep in mind]
 > The answers in this repo are mostly not optmized.
 
 ### C Programming language
