@@ -26,7 +26,7 @@
 - [C_07](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_07) [Subject](C_07/Subject-C_07.pdf)
 
 - [C_08](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_08) [Subject](C_08/Subject-C_08.pdf)
-- 
+
 - [C_09](https://github.com/ZagreusIV/1337_Pool/tree/main/1337_Pool/C_09) [Subject](C_09/Subject-C_09.pdf)
 
 
